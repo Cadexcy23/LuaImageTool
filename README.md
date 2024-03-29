@@ -48,7 +48,7 @@ function drawPixel(x, y, p)
 end
 ```
 Open the exported text document and copy the contents under the previous code.\
-![image](https://github.com/Cadexcy23/LuaImageTool/assets/51723869/02d69618-65ae-4597-95fd-3c0e41812259)\
+![image](https://github.com/Cadexcy23/LuaImageTool/assets/51723869/aca6d076-4b6a-436e-8198-1e0a3ff8f634)\
 You should now be able to run the lua file on your openComputer and see the image.\
 ![image](https://github.com/Cadexcy23/LuaImageTool/assets/51723869/3082aa6f-c360-4599-b011-c8d316579920)
 
